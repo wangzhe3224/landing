@@ -1,0 +1,38 @@
+baseURL = 'https://wangzhe3224.github.io/landing'
+languageCode = 'zh-cn'
+title = 'FunCoder'
+theme = 'ananke'
+
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.zh-cn]
+    title = "FunCoder"
+    weight = 1
+    contentDir = "content/cn"
+  [languages.en]
+    title = "FunCoder"
+    weight = 2
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
