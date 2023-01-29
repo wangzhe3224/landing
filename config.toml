@@ -1,4 +1,4 @@
-baseURL = 'https://wangzhe3224.github.io/landing'
+baseURL = 'https://funcoder.net/'
 languageCode = 'zh-cn'
 title = 'FunCoder'
 theme = 'ananke'
