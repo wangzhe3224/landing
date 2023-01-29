@@ -8,4 +8,4 @@ cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
-我是泛泛
+我是泛泛，我白天的作是量化开发，业余时间我关注量化、计算机教育、比特币教育等等有趣的事情。
