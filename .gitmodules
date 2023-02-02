@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/wangzhe3224/gohugo-theme-ananke
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = git@github.com:wangzhe3224/LoveIt.git

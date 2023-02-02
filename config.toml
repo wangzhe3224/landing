@@ -34,5 +34,5 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "github"
+url = "https://github.com/wangzhe3224"
