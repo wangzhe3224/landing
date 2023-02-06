@@ -13,9 +13,9 @@ cascade:
 Here are some topics:
 
 ---
-- [QuantBox](https://quant.funcoder.net/)
-- [Awesome Systematic Trading - 棒棒的系统化交易合集](https://github.com/wangzhe3224/awesome-systematic-trading)
-- [Bitcoin Pro - 专注比特币教育](https://wangzhe3224.github.io/bitcoin-pro)
+- [QuantBox - Your Systematic Trading Toolbox](https://quant.funcoder.net/)
+- [Awesome Systematic Trading - A crafted collection of systematic trading libraries](https://github.com/wangzhe3224/awesome-systematic-trading)
+- [Bitcoin Pro - Bitcoin Education](https://wangzhe3224.github.io/bitcoin-pro)
 - [转码路线图 - 200 小时转码核心课程](https://github.com/wangzhe3224/zhuan-ma)
 - [Python编程进阶 - (Python知否源代码)](https://github.com/wangzhe3224/Python-zhifou)
 - [重拾面向对象设计模式 - Python诠释](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
