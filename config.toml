@@ -36,3 +36,6 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/wangzhe3224"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

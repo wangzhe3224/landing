@@ -6,11 +6,9 @@ cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
-👨 FunCoder, a quantative developer in systematic hedge fund industry.   
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
-💻 Sharing kownledge related to coding in general, systematic trading.
-
-Here are some topics:
+👨 FunCoder, a quantative developer in systematic hedge fund industry. 💻 Sharing knowledge related to coding in general, systematic trading.
 
 ---
 - [QuantBox - Your Systematic Trading Toolbox](https://quant.funcoder.net/)
