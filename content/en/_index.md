@@ -21,3 +21,5 @@ cascade:
 - [量化交易知识集](https://github.com/wangzhe3224/systematic-trading-knowledge-collection)
 - [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
 ---
+
+![Buy Me A Coffee](./bmc_qr.png "Buy me a coffee")
