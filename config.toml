@@ -34,8 +34,19 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "github"
-url = "https://github.com/wangzhe3224"
+    name = "github"
+    url = "https://github.com/wangzhe3224"
+[[params.ananke_socials]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCewwgakV1SB1IKu8305Hgsg"
+[[params.ananke_socials]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/zhe-wang-0/"
+[[params.ananke_socials]]
+    name = "zhihu"
+    url = "https://www.zhihu.com/people/wangzhetju"
+    label = "知乎"
+
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
