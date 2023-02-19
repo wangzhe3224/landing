@@ -44,4 +44,8 @@ cascade:
 
 ---
 
+[微信群聊二维码](./wechat)
+
+---
+
 ![Buy Me A Coffee](./bmc_qr.png "Buy me a coffee")
