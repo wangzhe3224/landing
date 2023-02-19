@@ -26,6 +26,8 @@ cascade:
 
 ---
 
+## Tutorial and Blogs
+
 - __Quant__
     - [QuantBox - Your Systematic Trading Toolbox](https://quant.funcoder.net/)
     - [Awesome Systematic Trading - A crafted collection of systematic trading libraries](https://github.com/wangzhe3224/awesome-systematic-trading)
@@ -44,8 +46,23 @@ cascade:
 
 ---
 
-[微信群聊二维码](./wechat)
+## 视频
+
+- [泛泛说量化](https://www.youtube.com/watch?v=-6hj8TgiB7o&list=PL5ETbHWvsj-FJUbOyDHHqu6IyK6Sd17Ba)
+- [Python 速食 300 秒](https://www.youtube.com/watch?v=Jn92wKNF5kc&list=PL5ETbHWvsj-HMT5pFw6p6t_tPLI17l0y3)
+- [Python 知否](https://www.youtube.com/watch?v=gcay69gau-k&list=PL5ETbHWvsj-EbIT-BsswTG129JfDKD7eS)
+- [Vim 教学视频](https://www.youtube.com/watch?v=dR8KxTl63Mc&list=PL5ETbHWvsj-ElvAie2EhSnmAZts31adwQ)
 
 ---
+
+## 社群
+
+[微信群聊二维码](./wechat)
+
+[Bitcoin 社群](https://t.me/bitcoinpro21)
+
+---
+
+## Buy me a coffee
 
 ![Buy Me A Coffee](./bmc_qr.png "Buy me a coffee")
