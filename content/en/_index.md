@@ -46,6 +46,20 @@ cascade:
     - [Bitcoin Pro - Bitcoin 教育和推广](https://wangzhe3224.github.io/bitcoin-pro)
 
 ---
+## Code
+
+### My Projects
+
+- [Stepx - a Python library designed to manage research and live trading in systematic trading](https://github.com/wangzhe3224/stepx)
+- [Simple - minimal code base to exaplain the core of event-driven systematic trading libraries](https://github.com/wangzhe3224/simple)
+- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
+
+### Contributed to
+
+- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
+- [polars-book-cn](https://github.com/pola-rs/polars-book-cn)
+
+---
 
 ## 视频
 
