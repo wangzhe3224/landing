@@ -78,6 +78,33 @@ cascade:
 
 ---
 
-## Buy me a coffee
+## Buy me a cofoee
 
-![Buy Me A Coffee](./bmc_qr.png "Buy me a coffee")
+<img src="./bmc_qr.png"  width="60%" height="30%">
+<img src="./weixin.jpg"  width="60%" height="30%">
+<img src="./zhifubao.jpg"  width="60%" height="30%">
+<img src="./shandianwangluo.PNG"  width="60%" height="30%">
+
+<!-- <div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+<img src="./bmc_qr.png"  width="80%" height="30%">
+      	    </td>
+            <td style="padding:10px">
+<img src="./weixin.jpg"  width="100%" height="100%">
+            </td>
+        </tr>
+    </table>
+    <table>
+	    <tr>
+            <td style="padding:10px">
+<img src="./zhifubao.jpg"  width="100%" height="60%">
+            </td>
+            <td style="padding:10px">
+<img src="./shandianwangluo.PNG"  width="60%" height="30%">
+            </td>
+        </tr>
+    </table>
+</div>
+ -->
