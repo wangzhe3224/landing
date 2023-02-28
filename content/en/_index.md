@@ -27,6 +27,22 @@ cascade:
 
 ---
 
+## Code
+
+### My Projects
+
+- [Simple - minimal code base to exaplain the core of event-driven systematic trading libraries](https://github.com/wangzhe3224/simple)
+- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
+- [Stepx - a Python library designed to manage research and live trading in systematic trading](https://github.com/wangzhe3224/stepx)
+
+### Contributed to
+
+- [loman - A interactive computation graph runtime](https://github.com/janushendersonassetallocation/loman)
+- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
+- [polars-book-cn](https://github.com/pola-rs/polars-book-cn)
+
+---
+
 ## Tutorial and Blogs
 
 - __Quant__
@@ -44,20 +60,6 @@ cascade:
     - [Second Brian](https://github.com/wangzhe3224/second_brain)
 - __Bitcoin__
     - [Bitcoin Pro - Bitcoin 教育和推广](https://wangzhe3224.github.io/bitcoin-pro)
-
----
-## Code
-
-### My Projects
-
-- [Stepx - a Python library designed to manage research and live trading in systematic trading](https://github.com/wangzhe3224/stepx)
-- [Simple - minimal code base to exaplain the core of event-driven systematic trading libraries](https://github.com/wangzhe3224/simple)
-- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
-
-### Contributed to
-
-- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
-- [polars-book-cn](https://github.com/pola-rs/polars-book-cn)
 
 ---
 
@@ -78,7 +80,7 @@ cascade:
 
 ---
 
-## Buy me a cofoee
+## Buy me a coffee
 
 <img src="./bmc_qr.png"  width="60%" height="30%">
 <img src="./weixin.jpg"  width="60%" height="30%">
