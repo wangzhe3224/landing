@@ -11,6 +11,8 @@ cascade:
 
 👨 FunCoder, a quantative developer in systematic hedge fund industry. 💻 Sharing knowledge related to coding in general, systematic trading, and Bitcoin.
 
+[My Wechat Group (微信群)](./wechat)
+
 ![GitHub followers](https://img.shields.io/github/followers/wangzhe3224?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCewwgakV1SB1IKu8305Hgsg?style=social)
 
@@ -81,6 +83,10 @@ cascade:
 ---
 
 ## Buy me a coffee
+
+<iframe src="https://github.com/sponsors/wangzhe3224/button" title="Sponsor wangzhe3224" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
+<p></p>
 
 <img src="./bmc_qr.png"  width="60%" height="30%">
 <img src="./weixin.jpg"  width="60%" height="30%">
