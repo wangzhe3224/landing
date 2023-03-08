@@ -2,4 +2,4 @@
 
 <!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/RlPaeuj" data-context="false" ><a href="//imgur.com/a/RlPaeuj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
-![](https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg)
+<img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg"  width="40%" height="20%">
