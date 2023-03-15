@@ -45,9 +45,7 @@ cascade:
 ## Tutorial and Blogs
 
 - __Quant__
-    - [QuantBox - Your Systematic Trading Toolbox](https://quant.funcoder.net/)
     - [Awesome Systematic Trading - A crafted collection of systematic trading libraries](https://github.com/wangzhe3224/awesome-systematic-trading)
-    - [量化交易知识集](https://github.com/wangzhe3224/systematic-trading-knowledge-collection)
 - __General CS__
     - [转码路线图 - 200 小时转码核心课程](https://wangzhe3224.github.io/zhuan-ma/)
     - [Python 速食 300 秒(视频)](https://github.com/wangzhe3224/python-recipes-300-second)
