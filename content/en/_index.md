@@ -33,13 +33,10 @@ cascade:
 
 ### My Projects
 
-- [Simple - minimal code base to exaplain the core of event-driven systematic trading libraries](https://github.com/wangzhe3224/simple)
 - [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
-- [Stepx - a Python library designed to manage research and live trading in systematic trading](https://github.com/wangzhe3224/stepx)
 
 ### Contributed to
 
-- [loman - A interactive computation graph runtime](https://github.com/janushendersonassetallocation/loman)
 - [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
 - [polars-book-cn](https://github.com/pola-rs/polars-book-cn)
 
@@ -82,8 +79,7 @@ cascade:
 
 ---
 
-## Buy me a coffee
-
+<!-- 
 <iframe src="https://github.com/sponsors/wangzhe3224/button" title="Sponsor wangzhe3224" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <p></p>
@@ -91,7 +87,7 @@ cascade:
 <img src="./bmc_qr.png"  width="60%" height="30%">
 <img src="./weixin.jpg"  width="60%" height="30%">
 <img src="./zhifubao.jpg"  width="60%" height="30%">
-<img src="./shandianwangluo.PNG"  width="60%" height="30%">
+<img src="./shandianwangluo.PNG"  width="60%" height="30%"> -->
 
 <!-- <div id="image-table">
     <table>
