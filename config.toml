@@ -40,9 +40,6 @@ enableRobotsTXT = true
     name = "youtube"
     url = "https://www.youtube.com/channel/UCewwgakV1SB1IKu8305Hgsg"
 [[params.ananke_socials]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/zhe-wang-0/"
-[[params.ananke_socials]]
     name = "zhihu"
     url = "https://www.zhihu.com/people/wangzhetju"
     label = "知乎"
