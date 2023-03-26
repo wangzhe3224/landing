@@ -3,8 +3,8 @@ title: "FunCoder"
 description: "Christ | Quant Dev | Computer Science | ₿"
 theme_version: '2.8.2'
 cascade:
-#   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-  featured_image: './header.jpeg'
+  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+#   featured_image: './header.jpeg'
 ---
 
 <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
