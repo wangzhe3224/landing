@@ -46,6 +46,7 @@ cascade:
 
 - __Quant__
     - [Awesome Systematic Trading - A crafted collection of systematic trading libraries](https://github.com/wangzhe3224/awesome-systematic-trading)
+    - [Quant 路线图](https://wangzhe3224.github.io/quant-roadmap/)
 - __General CS__
     - [转码路线图 - 200 小时转码核心课程](https://wangzhe3224.github.io/zhuan-ma/)
     - [Python 速食 300 秒(视频)](https://github.com/wangzhe3224/python-recipes-300-second)
