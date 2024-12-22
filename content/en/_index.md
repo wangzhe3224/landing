@@ -44,6 +44,8 @@ cascade:
 
 ## Tutorial and Blogs
 
+- __General__
+    - [Blog](https://wangzhe3224.github.io/)
 - __Quant__
     - [Awesome Systematic Trading - A crafted collection of systematic trading libraries](https://github.com/wangzhe3224/awesome-systematic-trading)
     - [Quant 路线图](https://wangzhe3224.github.io/quant-roadmap/)
