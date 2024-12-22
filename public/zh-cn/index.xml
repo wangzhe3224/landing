@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FunCoder - 泛程序员 on FunCoder</title><link>https://funcoder.net/zh-cn/</link><description>Recent content in FunCoder - 泛程序员 on FunCoder</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://funcoder.net/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>ChatGPT 的用途 - 程序员视角</title><link>https://funcoder.net/zh-cn/post/test/</link><pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate><guid>https://funcoder.net/zh-cn/post/test/</guid><description> 通过描述表格，构建复杂 SQL 查询语句 直接输出 DAG 计算引擎代码 修改邮件回复、润色论文 生成知乎回答 生成论文提纲</description></item><item><title>2022总结</title><link>https://funcoder.net/zh-cn/post/2022_summary/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://funcoder.net/zh-cn/post/2022_summary/</guid><description>转眼 2022 年也快结束了，到了一年一度写总结的时候了！从哪里开始呢？索性我就从 2021 总结的展望部分开始吧！
+去年的展望 好好生活，多读圣经 达成（？）。我的虎儿子在年根儿附近出生了，当了 9 个月的准爸爸，两个月的爸爸，心中确实是，嗯，用个不恰当的词：悲喜交加！不过也正是因为经历了这 10 多个月的担心，才让我更加学会如何谦卑、如何信靠。
+强化计算机基础知识，逐渐为业务专精和第二专精服务。比如熟悉量化交易框架、输出文章、代码、视频。 强化量化知识，逐渐形成自己的职业细分专精方向：股票量化交易。 量化相关:
+制作了“泛泛说量化”这个系列视频，主要分享量化交易、量化开发的心得体会，视频的形式通常是对某一个主题写的文章进行一个视频讲解，或者通过简单的 PPT 进行讲解。
+制作了一个量化相关的 Github 资源站：Awesome Systematic Trading，今年获星 450+ 。这个站的初衷是为了自己调研量化开发相关的开源项目，为自己的研究生结业论文做一些调研工作。
+在股票量化交易方面，今年应该是成长最大的一年了。因为今年我接手了公司一个着眼中国股票市场的系统化交易项目，这是一个全新的项目，几乎是从头构建。我作为 Quant Dev 跟两个 Quants 组队完成。从信号生成、信号组合、风控、投资组合管理、交易细节等多个方面对股票系统化交易系统进行了细致的了解。项目历史 10 个月完成了从无到有的过程，已经头发资本开始实盘测试交易。
+第二次阅读了《Quantitative Portfolio Management: the art and science of statistical arbitrage》。
+总体来说，确实在量化交易，特别是中低频股票量化交易方面进行更多专业化提升。
+计算机知识:
+”Python 知否“ 这个系列今年没有制作任何新的视频。
+今年没有花费过多的时间在计算机基础，比如数据可实现、编译器实现、以及一直想要完成的MIT 6.828 这门操作系统课程。其一，今年的重点更加侧重为业务专精服务，而不是”基础“知识；其二，确实是精力有限，很少有成块的时间去钻研课程细节了；其三，今年花了不少时间了解其他的东西（一会儿讲）。
+花了一些时间在：
+6.031: Software Construction 这是一门非常不错的讲解软件工程的课程 使用 TypeScript 实现实例和讲解 涉及了软工的方方面面： 版本控制 抽象方法和实现 常用的设计模式 Debug 方法 甚至还有设计实现 DSL 的部分 Speed Up Your Python with Rust 一个直接写 C 拓展的替代 Rust in Action Hands-on Rust: Effective Learning through 2D Game Development and Play 为了熟悉 Rust 也给自己找点乐子。。 游戏系统设计（不涉及 3D）对我理解设计模式和软件工程非常有帮助 Polars - 一个基于 Rust 和 Apache Arrow 的 DataFrame 库 主要是寻找一个更加现代和高效的 Pandas 替代品 参与了中文文档的翻译工作 开拓一个新的相关业务专精：Crypto量化交易。 Crypto 量化这块我一直在犹豫要不要做，因为今年这一年我花了大量的时间重新认识比特币，对整个币圈的前景不是特别看好。这个我们放在后面讲吧。</description></item></channel></rss>
